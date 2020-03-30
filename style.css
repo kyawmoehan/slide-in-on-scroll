@@ -18,6 +18,9 @@ h1 {
   margin-top: 0;
 }
 
+img {
+  max-width: 100%;
+}
 .site-wrap {
   max-width: 700px;
   margin: 100px auto;
